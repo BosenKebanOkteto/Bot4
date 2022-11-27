@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285770190255'] 
+global.owner = ['628992669816'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285770190255']
+global.kontak = ['1(435)2618379']
 
 //  INFO BOT 
-global.naown = 'HanzOfc'
-global.noown = '6285770190255'
-global.namebot = 'XiaomiBOT'
-global.nobot = '62857791505013'
+global.naown = 'Sanz'
+global.noown = '628992669816'
+global.namebot = 'YaeBOT'
+global.nobot = '1(435)2618379'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/rangga_botz'
-global.github = 'https://github.com/XiaomiBOT'
-global.gc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
-global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/XiaomiBOT'
+global.instagram = 'https://instagram.com/gstiikhsan'
+global.github = '-'
+global.gc = '-'
+global.web = '-' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = '-'
 
 // PAYMANT 
-global.dana = '085779150501'
-global.pulsa = '085770190255'
-global.gopay = '085779150501'
+global.dana = '08992669816'
+global.pulsa = '085813262667'
+global.gopay = '08992669816'
 global.shopay = '-'
-global.ovo = '085779150501'
+global.ovo = '08992669816'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐗𝐢𝐚𝐨𝐦𝐢𝐁𝐎𝐓'
+global.wm = 'ᬊᬁ YaeBot'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙃𝙖𝙣𝙯𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝙓𝙞𝙖𝙤𝙢𝙞 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Sanz'
+global.wm3 = '⫹⫺ Yae | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Di buat Tod🗿'
-global.packname = 'XiaomiBOT'
-global.author = 'By HanzOfc'
+global.packname = 'YaeBot'
+global.author = 'By Sanz'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
